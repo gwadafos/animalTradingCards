@@ -1,0 +1,41 @@
+#trading_card {
+	padding-top: 5px;
+	max-width: 320px;
+	border: 1px solid #DDDDDD;
+	box-shadow: 5px 5px #DDDDDD;
+	font-size: 12px;
+}
+
+#name_anim {
+	margin: 10px;
+	font-size: 20px;
+}
+
+#image_pos {
+	margin: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#description {
+	margin: 10px;
+	margin-top: 5px;
+	border: 1px solid #DDDDDD;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.fact {
+	font-style: italic;
+}
+
+.label {
+	list-style-position: outside;
+	font-weight: bold;
+  	list-style-type: none;
+  	padding-left: initial;
+}
+ 
+.item{
+ 	font-weight: normal;
+}
